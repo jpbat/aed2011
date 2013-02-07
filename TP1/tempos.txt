@@ -1,0 +1,73 @@
+B:
+input1.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 0.000 Microsegundos
+
+input2.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 618011.000 Microsegundos
+
+input3.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 593538148.000 Microsegundos
+
+input4.txt
+SUBSEQUENCIA NA POSICAO 6
+Time ellapsed to complete task: 88425058.000 Microsegundos
+
+
+
+C:
+input1.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 0.000 Microsegundos
+
+input2.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 2000.000 Microsegundos
+
+input3.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 235013.000 Microsegundos
+
+input4.txt
+SUBSEQUENCIA NA POSICAO 6
+Time ellapsed to complete task: 30002.000 Microsegundos
+
+
+
+D:
+input1.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 0.000 Microsegundos
+
+input2.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 3000.000 Microsegundos
+
+input3.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 299017.000 Microsegundos
+
+input4.txt
+SUBSEQUENCIA NA POSICAO 6
+Time ellapsed to complete task: 28002.000 Microsegundos
+
+
+
+E:
+input1.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 0.000 Microsegundos
+
+input2.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 1000.000 Microsegundos
+
+input3.txt
+SUBSEQUENCIA NAO ENCONTRADA
+Time ellapsed to complete task: 3000.000 Microsegundos
+
+input4.txt
+SUBSEQUENCIA NA POSICAO 6
+Time ellapsed to complete task: 29002.000 Microsegundos
